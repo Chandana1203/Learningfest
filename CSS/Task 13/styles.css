@@ -1,0 +1,20 @@
+.a{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    border: 2px solid gray;
+    margin: 15px;
+    height: 120px;
+    width: 150px;
+
+}
+.c{
+    border: 1px white;
+    margin: 15px;
+    height: 120px;
+    width: 150px;
+
+}

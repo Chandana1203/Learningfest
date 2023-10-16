@@ -1,0 +1,12 @@
+body {
+  margin: 20px;
+  background: #f0f0f0; }
+  
+  .rainbow {
+    font-size: 40px;
+    font-weight: bold;
+    color: grey;
+    background-image: linear-gradient(90deg, violet, indigo, blue, green, yellow, orange, red);
+    text-align: center;
+  }
+  
